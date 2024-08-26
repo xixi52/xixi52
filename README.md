@@ -2,7 +2,7 @@
 
 ## Qui suis-je ? 🚀
 
-Je m'appelle Alexis MOUREY, j'ai 26 ans et je suis le fondateur de **EZCTF**, une plateforme dédiée aux passionnés de sécurité informatique et de challenges CTF (Capture The Flag). Spécialiste en développement avec une solide expérience en **Node.js** pour le côté serveur, en **React** pour les interfaces utilisateurs dynamiques et en **PHP** pour des solutions web robustes, je mets mes compétences au service de projets innovants et passionnants.
+Je m'appelle Alexis MOUREY, j'ai 27 ans et je suis le fondateur de **EZCTF**, une plateforme dédiée aux passionnés de sécurité informatique et de challenges CTF (Capture The Flag). Spécialiste en développement avec une solide expérience en **Node.js** pour le côté serveur, en **React** pour les interfaces utilisateurs dynamiques et en **PHP** pour des solutions web robustes, je mets mes compétences au service de projets innovants et passionnants.
 
 ## Mes domaines d'expertise 🛠️
 
